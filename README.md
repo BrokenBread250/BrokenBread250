@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
+    <style type="text/css">
       h3 {
         color:red
       }
